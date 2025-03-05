@@ -2,7 +2,10 @@
 This dashboard visualizes emergency room patient data, tracking admissions, wait times, satisfaction, demographics, and referrals for improved healthcare efficiency.
 
 # Project Overview
-The Hospital Emergency Room Dashboard is designed to provide real-time insights into patient flow, wait times, admission status, gender distribution, and referral departments. This helps hospital administrators and healthcare professionals optimize operations, improve patient satisfaction, and enhance resource allocation.
+The Hospital Emergency Room Dashboard is a data visualization tool designed to track and monitor patient flow, wait times, admission status, gender distribution, referral departments, and other key performance metrics in emergency room (ER) operations.
+
+By leveraging real-time insights, hospital administrators, healthcare professionals, and decision-makers can optimize resource allocation, reduce patient wait times, improve service efficiency, and enhance overall patient satisfaction.
+
 
 # Key Insights
 ✅ General Statistics
@@ -34,9 +37,13 @@ The highest department referral was General Practice (83 patients) followed by O
 
  The Hospital Emergency Room Dashboard aims to:
 ✅ Enhance Decision-Making – Provide real-time insights to hospital management for better decision-making.
+
 ✅ Optimize Patient Flow – Identify and reduce bottlenecks in ER operations.
+
 ✅ Improve Resource Allocation – Distribute medical staff efficiently based on patient trends.
+
 ✅ Increase Patient Satisfaction – Reduce wait times and improve healthcare service delivery.
+
 ✅ Monitor Department Demand – Analyze which medical departments receive the most referrals.
 
  # Dashboard
@@ -59,5 +66,5 @@ Identify which departments receive the most patient referrals and adjust staffin
 Use the year filter (2023/2024) to compare ER performance across different periods.
 
 # Technologies Used
- Microsoft Excel
+ ✅ Microsoft Excel
 
